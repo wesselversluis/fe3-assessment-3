@@ -1,3 +1,5 @@
+![alt text](https://github.com/wesselversluis/fe3-assessment-3/blob/master/wesselversluis/screen.png)
+
 # Assessment 3
 
 ## Opdracht
