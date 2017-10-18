@@ -1,6 +1,7 @@
 ![alt text](https://github.com/wesselversluis/fe3-assessment-3/blob/master/wesselversluis/screen.png)
 
 # Assessment 3
+Bekijk de visualisatie live [via deze link](https://wesselversluis.github.io/fe3-assessment-3/).
 
 ## Opdracht
 Voor assessment 3 was het de bedoeling om op basis van een dataset een nuttige interactieve visualisatie te maken met D3. 
