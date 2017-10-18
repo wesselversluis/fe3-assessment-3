@@ -1,0 +1,36 @@
+body {
+    font-family: 'Open Sans';
+    background-color: #F7F7F7;
+}
+
+text {
+    font-family: 'Open Sans';
+}
+h1,h2 {
+    color: darkred;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+    color: darkgrey;
+    font-weight: 500;
+}
+
+.female {
+    fill: red;
+}
+
+.male {
+    fill: none;
+    stroke: black;
+}
+
+svg:first-of-type {
+    background: white;
+    box-shadow: 2px 2px 5px #ccc;
+    border-radius: 2px;
+    margin-left: 40px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
